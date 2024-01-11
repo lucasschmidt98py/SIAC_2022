@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: Capitulo/intro
+chapters:
+- file: Capitulo/definicao
+- file: Capitulo/equacoes
+- file: Capitulo/markov
+- file: Capitulo/criticalidade
+- file: Capitulo/simulacao
+- file: Capitulo/codigo
+- file: Capitulo/futuro
