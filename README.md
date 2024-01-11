@@ -1,6 +1,6 @@
 # Modelagem probabilística do processo de ramificação de nêutrons em um meio infinito
 
-![](fig/SIAC.png)
+![](SIAC_20220217/fig/SIAC.png)
 
 ## Descrição:
 
@@ -19,4 +19,4 @@ In the work, the two main equations (Forward and Backward Kolmogorov equations) 
 
 Since the model is probabilistic, a C++ code has been developed to create scenarios of the process and compute the probabilities that constitute the model. The convergence of the analytical solutions to the Generating Function with its computational construction will be presented.
 
-![](fig/populacao_supercritico.png)
+![](SIAC_20220217/fig/populacao_supercritico.png)
