@@ -1,6 +1,6 @@
 # Introdução
 
-## Teoria dos Processos Ramificativos aplicados à um Reator Pontual
+# Modelagem probabilística do processo de ramificação de nêutrons em um meio infinito
 
 Um processo ramificativo é um processo estocástico cujas variáveis randômicas são indexadas pelos números naturais. Neste processo, cada indivíduo da geração n produz um número aleatório de outros indivíduos que irão compor a geração n+1
 
